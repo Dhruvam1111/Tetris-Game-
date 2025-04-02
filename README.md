@@ -66,3 +66,4 @@ This is a console-based Tetris game built in C++ for Windows. The game features 
 This project is open-source and available under the MIT License.
 Feel free to modify and use it for educational purposes!
 
+<img src ="Tetris Screenshot.png">
