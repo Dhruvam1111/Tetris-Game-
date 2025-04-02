@@ -26,6 +26,7 @@ This is a console-based Tetris game built in C++ for Windows. The game features 
 - **Up Arrow (↑)**: Rotate tetromino clockwise
 - **Spacebar**: Instantly drop the tetromino
 - **S/s** : Smash 
+- **P/p** : Pause
 - **Q/q**: Quit the game
 
 ## Game Mechanics
